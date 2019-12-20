@@ -12,4 +12,3 @@ if array==[]
 else
   puts "there are alredy poeple in line"
 end
-  
